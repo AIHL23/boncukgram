@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Boncukgram - Muhabbet Kuşu Dünyası",
+  "description": "Instagram stili muhabbet kuşu bakım ve analiz platformu.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
